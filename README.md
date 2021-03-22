@@ -30,3 +30,5 @@ CMake 目前的资源还是英文居多，写英文的其实相对简单，写�
   项目结构推荐
 
   CMake 最佳实践
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
